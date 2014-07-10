@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\CookieGetterSharp20140223\CookieGetterSharp20140223\CookieGetterSharp\bin\Debug\CookieGetterSharp.XML
+C:\Users\Administrator\Downloads\CookieGetterSharp20140223\CookieGetterSharp20140223\CookieGetterSharp\bin\Debug\CookieGetterSharp.dll
+C:\Users\Administrator\Downloads\CookieGetterSharp20140223\CookieGetterSharp20140223\CookieGetterSharp\bin\Debug\CookieGetterSharp.pdb
+C:\Users\Administrator\Downloads\CookieGetterSharp20140223\CookieGetterSharp20140223\CookieGetterSharp\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Downloads\CookieGetterSharp20140223\CookieGetterSharp20140223\CookieGetterSharp\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Downloads\CookieGetterSharp20140223\CookieGetterSharp20140223\CookieGetterSharp\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Downloads\CookieGetterSharp20140223\CookieGetterSharp20140223\CookieGetterSharp\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\Administrator\Downloads\CookieGetterSharp20140223\CookieGetterSharp20140223\CookieGetterSharp\obj\Debug\CookieGetterSharp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\CookieGetterSharp20140223\CookieGetterSharp20140223\CookieGetterSharp\obj\Debug\CookieGetterSharp.dll
+C:\Users\Administrator\Downloads\CookieGetterSharp20140223\CookieGetterSharp20140223\CookieGetterSharp\obj\Debug\CookieGetterSharp.pdb
