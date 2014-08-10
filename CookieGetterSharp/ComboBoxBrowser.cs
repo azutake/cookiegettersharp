@@ -31,8 +31,8 @@ namespace Hal.CookieGetterSharp {
 		public ComboBoxNicoBrowser() : base() {
 			CookieUrl = "http://www.nicovideo.jp/";
 			CookieKey = "user_session";
-			VerifyUrl = "http://www.nicovideo.jp/my/";
-			VerifyRegex = "nickname = \"([^<>]+)\";";
+			VerifyUrl = "http://i.nicovideo.jp/v6/login/";
+			VerifyRegex = "<nickname>([^<>]+)</nickname>";
 			VerifyTimeout = 5000;
 
 			DropDownStyle = ComboBoxStyle.DropDownList;
@@ -129,7 +129,7 @@ namespace Hal.CookieGetterSharp {
 		/// </summary>
 		[Category("動作")]
 		[Description("")]
-		[DefaultValue("nickname = \"([^<>]+)\";")]
+		[DefaultValue("<nickname>([^<>]+)</nickname>")]
 		public string VerifyRegex { get; set; }
 
 		/// <summary>
